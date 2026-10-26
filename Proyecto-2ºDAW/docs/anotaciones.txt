@@ -1,0 +1,12 @@
+- Las animaciones de entrada, fueron copiadas y modificadas de la web AnimatiSS
+
+- La aplicacion utiliza una base de datos de FireBase, y la configuracion de   esta me he ayudado de IA, por lo que puede fallar alguna cosa
+
+- La cuenta de prueba se llama:
+    admin@fleming.com
+    
+- Y el correo:
+    abc123
+
+- el boton y opcion de crear cuenta, no esta programado
+    es a futuro, pero si se complica demasiado, lo quitare
